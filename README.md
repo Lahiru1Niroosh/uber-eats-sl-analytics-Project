@@ -56,8 +56,8 @@ uber-eats-sl-analytics/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/uber-eats-sl-analytics.git
-cd uber-eats-sl-analytics
+git clone https://github.com/Lahiru1Niroosh/uber-eats-sl-analytics-Project
+cd uber-eats-sl-analytics-Project
 ```
 
 ### 2. Create virtual environment
