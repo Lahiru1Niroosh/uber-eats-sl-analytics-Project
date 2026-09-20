@@ -10,6 +10,16 @@
 
 This end-to-end analytics platform simulates the real-world data operations of **Uber Eats Sri Lanka** — covering marketplace health monitoring, pricing intelligence, restaurant partner performance, driver operations, and ML-powered churn prediction.
 
+## 🌐 Live Demo
+
+Explore the deployed dashboard here:
+
+**[Open the Uber Eats Sri Lanka Analytics Dashboard](https://uber-eats-sl-analytics-project-here.streamlit.app/)**
+
+## 🖥️ Dashboard Preview
+
+![Uber Eats Sri Lanka Analytics Dashboard](dashbord.jpg)
+
 Built to demonstrate the exact skills required for the **Senior Operations Associate** role at Uber Eats Colombo:
 
 | JD Requirement | How It's Addressed |
